@@ -7,11 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=640&height=44&lines=Data+Analyst+%7C+Data+Engineer;Turning+raw+data+into+decisions" alt="Typing headlines" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ngochonquang2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Resume-2f81f7?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
-</p>
 
 ## ABOUT ME
 

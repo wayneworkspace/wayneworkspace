@@ -8,17 +8,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=640&height=44&lines=Data%20Engineer%20building%20things%20that%20learn" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+## ABOUT ME
 
 Data professional who's comfortable on both ends of the pipeline — building the infrastructure that moves data and the analysis that makes sense of it. I turn raw, messy data into something people can actually trust and use.
 
-🌱 &nbsp;I'm currently learning **Docker, Apache Airflow, dbt, Google BigQuery**  
-👯 &nbsp;I'm looking to collaborate on **open-source data tools and ETL pipelines**  
-🤔 &nbsp;I'm looking for help with **optimizing SQL queries at scale**  
-💬 &nbsp;Ask me about **SQL, Python, data pipelines, dashboards**  
-😄 &nbsp;Pronouns: **He/Him**
+ &nbsp;I'm currently learning **Docker, Apache Airflow, dbt, Google BigQuery**  
+ &nbsp;I'm looking to collaborate on **open-source data tools and ETL pipelines**  
+ &nbsp;I'm looking for help with **optimizing SQL queries at scale**  
+ &nbsp;Ask me about **SQL, Python, data pipelines, dashboards**  
+ &nbsp;Pronouns: **He/Him**
 
-### 🛠️ Tech Stack
+## TECH STACK
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -32,25 +32,19 @@ Data professional who's comfortable on both ends of the pipeline — building th
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ng%C3%B4-quang-1a2267427/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ngochonquang2003@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-### 📊 GitHub Stats
+## GITHUB STAT
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=wayneworkspace&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=wayneworkspace&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+## CONTRIBUTOR GRAPH
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wayneworkspace&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/wayneworkspace">wayneworkspace</a></i></p>
+<p align="center"><i> From <a href="https://github.com/wayneworkspace">wayneworkspace</a></i></p>

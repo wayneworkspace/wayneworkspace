@@ -17,11 +17,11 @@
 
 I work across the full data lifecycle — building the pipelines that move and clean data, and the analysis that turns it into decisions people can act on. Recently focused on making messy, real-world datasets reliable enough to trust in production.
 
-&nbsp;🔭 Currently building **ETL pipelines with Airflow + dbt on BigQuery**
-&nbsp;🌱 Currently learning **Docker, Apache Airflow, dbt, Google BigQuery**
-&nbsp;🤝 Open to collaborating on **open-source data tools and ETL pipelines**
-&nbsp;💬 Ask me about **SQL, Python, data pipelines, dashboards**
-&nbsp;📫 Reach me at **ngochonquang2003@gmail.com**
+&nbsp; Currently building **ETL pipelines with Airflow + dbt on BigQuery**
+&nbsp; Currently learning **Docker, Apache Airflow, dbt, Google BigQuery**
+&nbsp; Open to collaborating on **open-source data tools and ETL pipelines**
+&nbsp; Ask me about **SQL, Python, data pipelines, dashboards**
+&nbsp; Reach me at **ngochonquang2003@gmail.com**
 
 ## FEATURED PROJECTS
 

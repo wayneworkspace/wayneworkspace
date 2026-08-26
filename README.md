@@ -46,5 +46,3 @@ Data professional who's comfortable on both ends of the pipeline — building th
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wayneworkspace&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
----
-<p align="center"><i> From <a href="https://github.com/wayneworkspace">wayneworkspace</a></i></p>

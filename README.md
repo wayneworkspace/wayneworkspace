@@ -1,65 +1,60 @@
-<p align="center">
-  <a href="https://github.com/wayneworkspace">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Quang" alt="Hello! I&#39;m Quang" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=640&height=44&lines=Data+Engineer;Turning+raw+data+into+decisions" alt="Typing headlines" />
-</p>
-
-
 ## ABOUT ME
+<img align="right" src="./asset/code-icon.svg" alt="" width="200" />
 
-Data Professional specializing in the full data lifecycle, from building robust pipelines and cleaning messy datasets to delivering actionable insights for production.
+Hands-on with large-scale web scraping (Shopee, TikTok); currently deepening data engineering.
 
-Currently expanding technical expertise through advanced studies, focusing on data engineering, automation workflows (n8n), and AI applications.
 
-Hands-on experience in web scraping dynamic platforms (Shopee, TikTok) to extract, process, and structure large-scale real-world data efficiently.
+Data professional covering the full data lifecycle — building pipelines, cleaning messy datasets, and turning chaotic data into clean, trustworthy assets that drive decisions.
 
-Passionate about transforming unreliable, chaotic data into clean, trustworthy assets that drive informed decision-making.
 
-Always open to collaborating on data-driven projects, automation systems, and backend challenges—let's build something impactful together!
 
+Open to collaborating on data-driven projects, automation systems, and backend challenges — let's build something impactful.
+
+<br clear="both" />
+
+## Languages & Tools
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=py" />
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sql.svg" alt="SQL" height="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" height="48" />
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" alt="dbt" height="48" />
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" height="48" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,aws,linux" />
+</p>
+
+`Python` · `SQL` · `Apache Airflow` · `dbt` · `Power BI` · `PostgreSQL` · `MySQL` · `Docker` · `AWS` · `Linux`
 
 ## FEATURED PROJECTS
+<p align="left">
+  <a href="https://github.com/wayneworkspace/Ecommerce_Price_Gap_Tracker">
+    <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=wayneworkspace&repo=Ecommerce_Price_Gap_Tracker&theme=tokyonight&title_color=bf91f3&icon_color=bf91f3&text_color=c9d1d9&bg_color=35,0d1117,1a1033&border_color=3b3f5c&border_radius=12" alt="Ecommerce Price Gap Tracker" />
+  </a>
+  <!-- Repo thứ 2: đổi REPO_2 thành tên repo rồi bỏ comment
+  <a href="https://github.com/wayneworkspace/REPO_2">
+    <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=wayneworkspace&repo=REPO_2&theme=tokyonight&title_color=bf91f3&icon_color=bf91f3&text_color=c9d1d9&bg_color=35,0d1117,1a1033&border_color=3b3f5c&border_radius=12" alt="REPO_2" />
+  </a>
+  -->
+</p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/wayneworkspace/Ecommerce_Price_Gap_Tracker">
-        <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=wayneworkspace&repo=Ecommerce_Price_Gap_Tracker&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000" alt="Ecommerce Price Gap Tracker" />
-      </a>
-    </td>
-    <td width="50%">
-    </td>
-  </tr>
+
+## Education
+<table width="100%">
+    <tr>
+        <td width="180" height="80" align="center" valign="middle">
+            <img
+                src="./asset/hcmus-logo.png"
+                alt="HCMUS Logo"
+                width="95"
+            />
+        </td>
+        <td valign="middle">
+            <strong>University of Science — VNUHCM (HCMUS)</strong>
+            <br />
+            <strong>Bachelor of Engineering in Electronics and Telecommunications</strong>
+            <br />
+            <sub>Ho Chi Minh City, Vietnam</sub>
+        </td>
+    </tr>
 </table>
 
-> Replace the repo names above with your two strongest projects. Each linked repo should have its own README explaining the problem, your approach, the stack, and the result — that's what a recruiter actually reads.
-
-## TECH STACK
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-## GITHUB STATS
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=wayneworkspace&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=wayneworkspace&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wayneworkspace&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+---

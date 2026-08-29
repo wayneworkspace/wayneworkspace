@@ -10,13 +10,16 @@
 
 ## ABOUT ME
 
-I work across the full data lifecycle — building the pipelines that move and clean data, and the analysis that turns it into decisions people can act on. Recently focused on making messy, real-world datasets reliable enough to trust in production.
+Data Professional specializing in the full data lifecycle, from building robust pipelines and cleaning messy datasets to delivering actionable insights for production.
 
-&nbsp; Currently building **ETL pipelines with Airflow + dbt on BigQuery**
-&nbsp; Currently learning **Docker, Apache Airflow, dbt, Google BigQuery**
-&nbsp; Open to collaborating on **open-source data tools and ETL pipelines**
-&nbsp; Ask me about **SQL, Python, data pipelines, dashboards**
-&nbsp; Reach me at **ngochonquang2003@gmail.com**
+Currently expanding technical expertise through advanced studies, focusing on data engineering, automation workflows (n8n), and AI applications.
+
+Hands-on experience in web scraping dynamic platforms (Shopee, TikTok) to extract, process, and structure large-scale real-world data efficiently.
+
+Passionate about transforming unreliable, chaotic data into clean, trustworthy assets that drive informed decision-making.
+
+Always open to collaborating on data-driven projects, automation systems, and backend challenges—let's build something impactful together!
+
 
 ## FEATURED PROJECTS
 

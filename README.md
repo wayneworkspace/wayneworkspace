@@ -31,9 +31,6 @@ Always open to collaborating on data-driven projects, automation systems, and ba
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/wayneworkspace/Growth_Up_With_Sakila_DB">
-        <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=wayneworkspace&repo=Growth_Up_With_Sakila_DB&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000" alt="Growth Up With Sakila DB" />
-      </a>
     </td>
   </tr>
 </table>

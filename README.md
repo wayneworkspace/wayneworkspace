@@ -42,9 +42,9 @@ Open to collaborating on data-driven projects, automation systems, and backend c
     <tr>
         <td width="180" height="80" align="center" valign="middle">
             <img
-                src="./asset/hcmus-logo.png"
+                src="./asset/HCMUS_logo.png"
                 alt="HCMUS Logo"
-                width="95"
+                width="150"
             />
         </td>
         <td valign="middle">

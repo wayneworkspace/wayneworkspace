@@ -6,7 +6,7 @@ Data professional covering the full data lifecycle — building pipelines, clean
 
 Open to collaborating on data-driven projects, automation systems, and backend challenges — let's build something impactful.
 
-## Languages & Tools
+## LANGUAGUES & TOOLS
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" />
@@ -54,7 +54,7 @@ Open to collaborating on data-driven projects, automation systems, and backend c
   -->
 </p>
 
-## Education
+## EDUCATION
 
 <table width="100%">
     <tr>

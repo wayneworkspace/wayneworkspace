@@ -1,4 +1,4 @@
-# ABOUT ME
+## ABOUT ME
 
 Hands-on with large-scale web scraping (Shopee, TikTok); currently deepening data engineering.
 
@@ -27,23 +27,24 @@ Open to collaborating on data-driven projects, automation systems, and backend c
 
 <picture>
   <source
-    srcset="https://github.pumbas.net/api/contributions/wayneworkspace?colour=BF91F3&bgColour=0D1117&dotColour=C9D1D9&days=30"
+    srcset="https://github.pumbas.net/api/contributions/wayneworkspace?colour=7DD3FC&bgColour=0D1117&dotColour=E0F2FE&days=30"
     media="(prefers-color-scheme: dark)"
   />
   <img
     width="100%"
-    src="https://github.pumbas.net/api/contributions/wayneworkspace?colour=7C3AED&bgColour=F6F8FA&dotColour=57606A&days=30"
+    src="https://github.pumbas.net/api/contributions/wayneworkspace?colour=0284C7&bgColour=F0F9FF&dotColour=475569&days=30"
     alt="Contribution Graph"
   />
 </picture>
 
 
 
-## FEATURED PROJECTS
+
+## PROJECTS
 
 <p align="left">
   <a href="https://github.com/wayneworkspace/Ecommerce_Price_Gap_Tracker">
-    <img width="100%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=wayneworkspace&repo=Ecommerce_Price_Gap_Tracker&theme=tokyonight&title_color=bf91f3&icon_color=bf91f3&text_color=c9d1d9&bg_color=35,0d1117,1a1033&border_color=3b3f5c&border_radius=12" alt="Ecommerce Price Gap Tracker" />
+    <img width="100%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=wayneworkspace&repo=Ecommerce_Price_Gap_Tracker&theme=tokyonight&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=35,0d1117,082f49&border_color=1e3a5f&border_radius=12" alt="Ecommerce Price Gap Tracker" />
   </a>
   <!-- Repo thứ 2: đổi REPO_2 thành tên repo rồi bỏ comment.
        Nếu có 2 card, đổi width="100%" của cả 2 thành width="49%" để nằm cạnh nhau trên desktop.

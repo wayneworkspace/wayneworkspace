@@ -23,6 +23,11 @@ Open to collaborating on data-driven projects, automation systems, and backend c
 
 `Python` · `SQL` · `Apache Airflow` · `dbt` · `Power BI` · `PostgreSQL` · `MySQL` · `Docker` · `AWS` · `Linux`
 
+## Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wayneworkspace&bg_color=0d1117&color=c9d1d9&line=bf91f3&point=c9d1d9&area=true&area_color=bf91f3&hide_border=true&hide_title=true" alt="Contribution Graph" />
+
+
 ## FEATURED PROJECTS
 
 <p align="left">

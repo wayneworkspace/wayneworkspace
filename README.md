@@ -23,10 +23,20 @@ Open to collaborating on data-driven projects, automation systems, and backend c
 
 `Python` · `SQL` · `Apache Airflow` · `dbt` · `Power BI` · `PostgreSQL` · `MySQL` · `Docker` · `AWS` · `Linux`
 
-## Contribution Activity
+## Activity
 
-<img width="100%" src="https://github.pumbas.net/api/contributions/wayneworkspace?colour=BF91F3&bgColour=0D1117&dotColour=C9D1D9&days=30" alt="Contribution Graph" />
-username=wayneworkspace&bg_color=0d1117&color=c9d1d9&line=bf91f3&point=c9d1d9&area=true&area_color=bf91f3&hide_border=true&hide_title=true" alt="Contribution Graph" />
+<picture>
+  <source
+    srcset="https://github.pumbas.net/api/contributions/wayneworkspace?colour=BF91F3&bgColour=0D1117&dotColour=C9D1D9&days=30"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    width="100%"
+    src="https://github.pumbas.net/api/contributions/wayneworkspace?colour=7C3AED&bgColour=F6F8FA&dotColour=57606A&days=30"
+    alt="Contribution Graph"
+  />
+</picture>
+
 
 
 ## FEATURED PROJECTS

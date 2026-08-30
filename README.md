@@ -6,7 +6,7 @@ Data professional covering the full data lifecycle — building pipelines, clean
 
 Open to collaborating on data-driven projects, automation systems, and backend challenges — let's build something impactful.
 
-## LANGUAGUES & TOOLS
+## LANGUAGES & TOOLS
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" />
@@ -23,7 +23,7 @@ Open to collaborating on data-driven projects, automation systems, and backend c
 
 `Python` · `SQL` · `Apache Airflow` · `dbt` · `Power BI` · `PostgreSQL` · `MySQL` · `Docker` · `AWS` · `Linux`
 
-## Activity
+## ACTIVITIES
 
 <picture>
   <source

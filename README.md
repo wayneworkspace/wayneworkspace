@@ -76,3 +76,4 @@ Open to collaborating on data-driven projects, automation systems, and backend c
 </table>
 
 ---
+

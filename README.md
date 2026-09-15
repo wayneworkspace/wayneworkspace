@@ -38,22 +38,6 @@ Open to collaborating on data-driven projects, automation systems, and backend c
 </picture>
 
 
-
-
-## PROJECTS
-
-<p align="left">
-  <a href="https://github.com/wayneworkspace/Ecommerce_Price_Gap_Tracker">
-    <img width="100%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=wayneworkspace&repo=Ecommerce_Price_Gap_Tracker&theme=tokyonight&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=35,0d1117,082f49&border_color=1e3a5f&border_radius=12" alt="Ecommerce Price Gap Tracker" />
-  </a>
-  <!-- Repo thứ 2: đổi REPO_2 thành tên repo rồi bỏ comment.
-       Nếu có 2 card, đổi width="100%" của cả 2 thành width="49%" để nằm cạnh nhau trên desktop.
-  <a href="https://github.com/wayneworkspace/REPO_2">
-    <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=wayneworkspace&repo=REPO_2&theme=tokyonight&title_color=bf91f3&icon_color=bf91f3&text_color=c9d1d9&bg_color=35,0d1117,1a1033&border_color=3b3f5c&border_radius=12" alt="REPO_2" />
-  </a>
-  -->
-</p>
-
 ## EDUCATION
 
 <table width="100%">

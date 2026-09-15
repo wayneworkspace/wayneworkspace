@@ -1,10 +1,9 @@
 ## ABOUT ME
 
-Hands-on with large-scale web scraping (Shopee, TikTok); currently deepening data engineering.
-
-Data professional covering the full data lifecycle — building pipelines, cleaning messy datasets, and turning chaotic data into clean, trustworthy assets that drive decisions.
-
-Open to collaborating on data-driven projects, automation systems, and backend challenges — let's build something impactful.
+- Data Analyst in Ho Chi Minh City, building toward Data Engineering.
+- Scrape Amazon, Shopee, TikTok, Lazada; deliver Power BI dashboards.
+- Turned top-200 marketplace crawls into a CEO's import decision.
+- Now: Data Engineering program and AWS Certified Data Engineer.
 
 ## LANGUAGES & TOOLS
 

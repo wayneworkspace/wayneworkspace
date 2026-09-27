@@ -1,7 +1,7 @@
 ## ABOUT ME
 
 - Data Analyst in Ho Chi Minh City, building toward Data Engineering.
-- Scrape Amazon, Shopee, TikTok, Lazada; deliver Power BI dashboards.
+- Scrape API from Ecommerce; deliver Power BI dashboards.
 - Turned top-200 marketplace crawls into a CEO's import decision.
 - Now: Data Engineering program and AWS Certified Data Engineer.
 

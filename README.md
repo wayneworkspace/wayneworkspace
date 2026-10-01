@@ -7,20 +7,16 @@
 
 ## LANGUAGES & TOOLS
 
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" />
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sql.svg" alt="SQL" width="48" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="48" />
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" alt="dbt" width="48" />
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="48" />
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" />
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" />
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" />
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" />
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" />
-</p>
-
-`Python` · `SQL` · `Apache Airflow` · `dbt` · `Power BI` · `PostgreSQL` · `MySQL` · `Docker` · `AWS` · `Linux`
+| Category | Technologies |
+|---|---|
+| **Programming** | <img src="https://skillicons.dev/icons?i=py" alt="Python" height="24" /> Python &nbsp;•&nbsp; <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sql.svg" alt="SQL" height="24" /> SQL |
+| **Big Data** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Spark" height="24" /> Spark (PySpark) &nbsp;•&nbsp; <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" alt="dbt" height="24" /> dbt &nbsp;•&nbsp; <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/clickhouse-icon.svg" alt="ClickHouse" height="24" /> ClickHouse |
+| **Cloud Platform** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" height="24" /> GCP (BigQuery) |
+| **ETL & Orchestration** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" height="24" /> Airflow |
+| **Data Modeling** | Star Schema &nbsp;•&nbsp; SCD &nbsp;•&nbsp; OLAP &nbsp;•&nbsp; Metadata-driven ETL |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="24" /> Docker |
+| **BI Tools** | <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" height="24" /> Power BI |
+| **Automation & AI** | BeautifulSoup &nbsp;•&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" height="24" /> Playwright &nbsp;•&nbsp; <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/n8n-icon.svg" alt="n8n" height="24" /> n8n &nbsp;•&nbsp; <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/anthropic-icon.svg" alt="Anthropic" height="24" /> AI-assisted tools (Anthropic API) |
 
 ## ACTIVITIES
 

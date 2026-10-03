@@ -16,7 +16,7 @@
 | **Data Modeling** | Star Schema &nbsp;•&nbsp; SCD &nbsp;•&nbsp; OLAP &nbsp;•&nbsp; Metadata-driven ETL |
 | **DevOps** | <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="24" /> Docker |
 | **BI Tools** | <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" height="24" /> Power BI |
-| **Automation & AI** | BeautifulSoup &nbsp;•&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" height="24" /> Playwright &nbsp;•&nbsp; <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/n8n-icon.svg" alt="n8n" height="24" /> n8n &nbsp;•&nbsp; <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/anthropic-icon.svg" alt="Anthropic" height="24" /> AI-assisted tools (Anthropic API) |
+| **Automation & AI** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" height="24" /> Playwright &nbsp;•&nbsp; <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/n8n-icon.svg" alt="n8n" height="24" /> n8n &nbsp;•&nbsp; <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/anthropic-icon.svg" alt="Anthropic" height="24" /> AI-assisted tools (Anthropic API) |
 
 ## ACTIVITIES
 
